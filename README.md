@@ -17,8 +17,10 @@ This line chart, when coupled with the pivot table, helps illustrate the differe
 In this analysis, a new sheet was created to evaluate outcomes based on goals using data such as number Successsful/Failed/Canceled, goal, and percentage Successful/Failed/Canceled. The COUNTIFS() functions was used to populate Successful/Failed/Canceled, as well as filters to further refine the data. Then, the SUM() function was used to populate the total projects for each respective outcome category. 
 Outcome_vs_Goals<img width="713" alt="Outcome_vs_Goals" src="https://user-images.githubusercontent.com/84995704/122608627-29a48980-d042-11eb-88b1-02b511a399c6.png">
 Again, a line chart, when coupled with the table, helps illustrate the negative relationship between those play perecentage of successful and failed plays, and the goal of plays overall. 
-![image](https://user-images.githubusercontent.com/84995704/122608932-bd765580-d042-11eb-82ed-b61d2ef6070c.png)### Challenges and Difficulties Encountered
+
+![image](https://user-images.githubusercontent.com/84995704/122608932-bd765580-d042-11eb-82ed-b61d2ef6070c.png)
 ### Challanges and Difficulties Involved
+
 There were no incredible challenges involved in the analysis, though, there was some abrasion, most of which occured in creating the line charts. The x and Y axes needed to be reversed in order to get an accurate picture of the outcomes based on goals. Also, categories considered, "noise," needed to be filtred in order to get a clear picture of the data needed to make an accurate analysis.
 ## Results
   In the Theater Outcomes by Launch Date data, there are two conclusions that can be assessed. First, the months of April and August show the greatest disparity between failed and successful outcomes, leading to the assessment that those two months are the best in terms of a successful outcome based on launch date. Second, in terms of course of an entire year, both successful and failed plays follow a similar path, that is, plays generally start weaker in winter months and stronger in the summer months. 
