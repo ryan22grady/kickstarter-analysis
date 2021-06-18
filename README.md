@@ -16,6 +16,7 @@ This line chart, when coupled with the pivot table, helps illustrate the differe
 ### Analysis of Outcomes Based on Goals
 In this analysis, a new sheet was created to evaluate outcomes based on goals using data such as number Successsful/Failed/Canceled, goal, and percentage Successful/Failed/Canceled. The COUNTIFS() functions was used to populate Successful/Failed/Canceled, as well as filters to further refine the data. Then, the SUM() function was used to populate the total projects for each respective outcome category. 
 Outcome_vs_Goals<img width="713" alt="Outcome_vs_Goals" src="https://user-images.githubusercontent.com/84995704/122608627-29a48980-d042-11eb-88b1-02b511a399c6.png">
+
 Again, a line chart, when coupled with the table, helps illustrate the negative relationship between those play perecentage of successful and failed plays, and the goal of plays overall. 
 
 ![image](https://user-images.githubusercontent.com/84995704/122608932-bd765580-d042-11eb-82ed-b61d2ef6070c.png)
